@@ -6,7 +6,7 @@ HOW TO RUN THIS APP:
 
     Open the Command Prompt (cmd) on your computer
 
-    **cd into my repository (/NewFolder/News-Aggregator/NewsAggregator)
+    **cd into my repository (/NewFolder/ABC-CBS News Aggregator/NewsAggregator)
 
     Install the following pckgs if you haven't already:
 
